@@ -1,0 +1,19 @@
+/* div {
+    font-size: 18px;
+    background: url(../img/2.jpeg)
+} */
+body {
+    background: #FFF;
+}
+.svg text {
+    fill: rgb(255, 194, 76);
+    font-size: 32px;
+    color: #fff;
+}
+
+
+.svg use {
+    stroke: #000;
+    stroke-width: 10;
+    stroke-linejoin: round;
+}
